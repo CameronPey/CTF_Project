@@ -1,0 +1,19 @@
+🌳 Challenge: The Tree of Secrets
+
+Our hacker team at headquarters intercepted this photo of a famous tree trunk.  
+We've been tasked with finding out where it's located and answering a few questions about it.
+
+---
+
+
+🔍 Questions:
+
+1. 🌍 What city & state is this tree located in?  
+
+2. 🌲 What is the name of this tree?  
+
+3. 📜 Who purchased the grove in 1921?  
+
+---
+
+🌟 Good luck, agent! This tree has more secrets than it appears.

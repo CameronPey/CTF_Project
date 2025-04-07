@@ -1,0 +1,20 @@
+🔍 Challenge: Investigating a Domain
+
+We need to find out a few things about a certain domain. Try and figure it out!  
+(Domain: Youtube.com)
+
+---
+
+📋 Questions:
+
+1. Who is the registrar?
+
+2. When was the domain first registered?
+
+3. What organization is the contact for this domain?
+
+4. What year, city, and state was the registrar's company founded in?
+
+---
+
+Good luck, agent! Use your tools wisely. 🕵️‍♂️
