@@ -36,9 +36,5 @@ Perfect for clubs, classrooms, or anyone looking to sharpen their skills!
 📂 CyberCapture-CTF/
 ├── challenges/
 │   ├── crypto/
-│   ├── stegano/
 │   ├── osint/
-│   └── misc/
-├── solutions/
 ├── README.md
-└── setup_guide.md
