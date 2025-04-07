@@ -1,38 +1,38 @@
-# 🗺️ Challenge: Where in the World?
+🗺️ Challenge: Where in the World?
 
 We've intercepted a pattern in recent hacker activity.  
 Three previous meetings were held in seemingly random locations…  
 but our analysts think there's a hidden link.
 
-> 💡 **Clue for the next meeting location:**  
-> **"Tamuning."**
+💡 Clue for the next meeting location:  
+"Tamuning."
 
 ---
 
-## 🎯 Your Mission
+🎯 Your Mission
 
 Figure out the connection between the three past meeting spots  
 and predict the pattern.
 
 🧠 The key to solving this lies not in what those places are now…  
-but what they *used* to be.
+but what they used to be.
 
-> **Where will the next hacker meeting take place?**
-
----
-
-## 📍 Location Clues
-
-1. `10131 E 21st St, Tulsa, OK 74129`  
-2. `101 Cracker Barrel Rd SW, Fort Payne, AL 35968`  
-3. `29600 Ford Rd, Garden City, MI 48135`
+Where will the next hacker meeting take place?
 
 ---
 
-## 🔍 Questions
+📍 Location Clues
 
-- What **retailer** used to be at all of these locations?  
-- When was the **first store** ever opened?
+1. 10131 E 21st St, Tulsa, OK 74129  
+2. 101 Cracker Barrel Rd SW, Fort Payne, AL 35968  
+3. 29600 Ford Rd, Garden City, MI 48135
+
+---
+
+🔍 Questions
+
+- What retailer used to be at all of these locations?  
+- When was the first store ever opened?
 
 ---
 
