@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CTF-Cybersecurity-blue?style=flat-square&logo=hack-the-box&logoColor=white" />
   <img src="https://img.shields.io/badge/Level-Beginner--to--Advanced-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%94%A5%20and%20%F0%9F%9A%80-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20by-NetworkingPanda-success?style=flat-square" />
 </p>
 
 <p align="center">
