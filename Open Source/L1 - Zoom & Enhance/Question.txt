@@ -1,0 +1,17 @@
+Someone left behind a photo… but it's more than just pixels.
+Using only the image provided, you'll need to dig deep and answer questions about where it was taken, who took it, and when it was posted. All the answers are out there — you just have to follow the digital breadcrumbs.
+
+
+Question 1:
+What city was this taken in?
+
+Question 2:
+What street is this restaurant on?
+
+
+Question 3:
+Who was the yelp user that took this photo?
+
+Question 4:
+In what year was this photo posted on yelp?
+
