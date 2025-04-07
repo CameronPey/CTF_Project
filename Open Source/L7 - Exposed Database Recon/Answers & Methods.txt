@@ -1,0 +1,22 @@
+🔍 Questions:
+
+🌐 Who is the ISP of this IP?
+(Answer: Triple T Broadband Public Company Limited)
+
+🆔 What is the ASN of this IP?
+(Answer: ASN AS45758)
+
+🔐 What does port 37 show?
+(Answer: N\x00\x00\x00\n5.5.62-log\x00K\xfa\x00\x005/*'%#~s\x00\xff\xf7\x08)
+
+🧐 What does that mean, and what potential vulnerabilities does it have?
+(Answer: Version 5.5.62, which is outdated and vulnerable to:
+
+CVE-2016-6662 (Remote Root Exploit via configuration injection)
+
+CVE-2018-2562 (Privilege Escalation))
+
+
+
+
+Tools: Shodan.io

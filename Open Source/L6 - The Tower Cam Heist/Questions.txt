@@ -1,0 +1,18 @@
+🎥 Challenge: The Tower Cam Heist
+
+Hackers have successfully hijacked a camera mounted above a famous building! Our mission is to track down the camera's link and uncover the secrets of the location. Can you crack it?
+
+🔍 Questions:
+
+🌐 What is the link to the Camera?
+
+🏢 What is the building the Camera is mounted on?
+
+🌿 What is the building with the green and white letters in the photo named?
+
+📅 What year was the developing company of that building founded in?
+
+🏰 Find the property that they manage, and it was opened in 1889.
+
+🔓 Mission Complete?
+You've uncovered all the details! Keep an eye on the camera, agent. You never know what might happen next...

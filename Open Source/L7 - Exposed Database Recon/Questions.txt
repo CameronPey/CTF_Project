@@ -1,0 +1,13 @@
+💻 Challenge: Exposed Database Recon
+
+We intercepted an IP address and discovered an exposed database! Your mission is to figure out what port it's running on and what SQL version it uses. Get ready to dive deep into the data!
+
+🔍 Questions:
+
+🌐 Who is the ISP of this IP?
+
+🆔 What is the ASN of this IP?
+
+🔐 What does port 37 show?
+
+🧐 What does that mean, and what potential vulnerabilities does it have?
