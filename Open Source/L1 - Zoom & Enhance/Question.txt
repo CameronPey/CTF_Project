@@ -1,0 +1,18 @@
+# 🕵️ OSINT Challenge: Zoom & Enhance
+
+Someone left behind a photo… but it's more than just pixels. 🖼️  
+Using only the image provided, you'll need to dig deep and uncover the details:  
+**Where** was it taken? **Who** posted it? **When** did it happen?
+
+All the answers are out there — you just have to follow the digital breadcrumbs. 🌐
+
+---
+
+## 🔍 Questions
+
+1. **What city** was this photo taken in?  
+2. **What street** is the restaurant on?  
+3. **What is the username** of the Yelp user who posted the photo?  
+4. **What year** was the photo posted on Yelp?
+
+---
