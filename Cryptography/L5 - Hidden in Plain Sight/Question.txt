@@ -1,0 +1,6 @@
+Not every secret is locked away behind complex codes or cryptic messages. Sometimes, they’re buried in plain sight, camouflaged within the most ordinary of files. Your mission, should you choose to accept it, is to uncover the hidden flag, tucked away in an unsuspecting file.
+
+🔍 Your Task:
+Utilize your steganographic skills to extract the hidden message. The clue lies in the most unexpected places—think ctf, and trust your instincts. The flag is closer than you think!
+
+Good luck, agent. The truth is hidden in the details.

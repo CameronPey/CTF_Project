@@ -1,0 +1,9 @@
+🔐 Challenge: The Ciphered Secrets
+
+The enemy has hidden their most crucial secrets in two mysterious ciphers: one encrypted with color squares and the other with cryptic symbols. Each cipher holds a unique flag—decode both to unlock the treasure and complete your mission!
+
+🔍 Questions:
+
+🎨 What is the answer for the file named "Cipher 2"?
+
+🗝️ What is the decrypted message for the file named "Cipher"?
