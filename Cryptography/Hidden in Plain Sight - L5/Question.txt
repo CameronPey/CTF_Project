@@ -1,5 +1,0 @@
-Not all secrets are hidden in the open. Sometimes they’re tucked away in places you least expect. Your task is to uncover the hidden message within an innocuous-looking file.
-
-Your mission:
-Use your skills to find the steganographic flag. The hint? Think ctf — it could be hiding right in front of your eyes!
-

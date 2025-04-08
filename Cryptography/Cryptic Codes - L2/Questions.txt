@@ -1,6 +1,0 @@
-The enemy has hidden their secrets in two separate ciphers: one in color squares and the other in cryptic symbols. Each one leads to a unique flag. Decode both to complete the challenge!
-
-What is the answer for the file named Cipher 2?
-
-
-What is the decrypted message for the file named Cipher?
