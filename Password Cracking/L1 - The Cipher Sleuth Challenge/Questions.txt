@@ -1,0 +1,17 @@
+💥 Crack the Code: Hashes in the Wild! 💥
+
+The enemy has hidden secret identities using various cryptographic algorithms. Your mission: decipher their encrypted hashes and reveal the names behind the codes! Use your skills, break through the algorithms, and uncover the truth.
+
+MD5 
+e7a42066433ac555f3942f35f1a74165
+
+MD5 
+23947088dd10d4465b12dc0b44f726b7
+
+SHA3 512
+7a7800c7b6be4a8f189666c7e80cb6bb350f3cd4de82a42a685a12c3d419ac34331c79a1a2cdf921ca19bac6014271e8621b31df2f6d83218a85fce10cfd8ad0
+
+SHA3 384
+0063545a85abb1e7a3da0eeeb491f85b77c3026b02d25e6e83d4841b05f5aed9640a7b4c5bba7a36f832cab18076a9e5
+
+The game is on. Are you up for cracking these cryptographic puzzles? 🔐💡

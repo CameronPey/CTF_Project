@@ -1,0 +1,4 @@
+🕵️‍♂️ Your Mission: An enemy operative has hidden the keys to a secret vault behind a powerful MD5 hash. It’s encrypted and locked tight, but with the right tools, you can break through. Only the sharpest minds can unlock the mystery.
+
+🧩 Encrypted Hash:
+md5306fcdd1b7b3a78fabf2c520fd06a8ab

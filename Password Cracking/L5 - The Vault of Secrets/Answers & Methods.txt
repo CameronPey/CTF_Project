@@ -1,0 +1,3 @@
+hashcat -m 11100 -a 0 hash.txt rockyou.txt
+postgres
+PostgreSQL password

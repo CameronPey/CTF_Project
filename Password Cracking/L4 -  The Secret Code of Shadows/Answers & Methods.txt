@@ -1,0 +1,3 @@
+hashcat -m 5800 -a 0 hash.txt rockyou.txt
+2580
+Android Pattern Lock

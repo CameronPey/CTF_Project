@@ -1,0 +1,4 @@
+🕵️‍♂️ Mission Briefing: The enemy has left behind a cryptic code in the form of a MD5 hash, and it’s up to you to decrypt it! But be warned, this is no ordinary challenge. With nothing but your wits and an MD5 cracking tool like hashcat, can you uncover the secret behind the hash and reveal what they’re hiding?
+
+🔒 Encrypted Hash:
+299BD128C1101FD6C92605986E6F5519

@@ -1,0 +1,6 @@
+💣 The Hunt for the Hidden Key: Bcrypt Challenge! 💣
+
+Your mission: the enemy has encrypted their secrets with a powerful Bcrypt hash. You've got the tool and the file, now it's time to crack it open! Use your skills with hashcat and the famous rockyou.txt wordlist to uncover the hidden password.
+
+🔒 Hash to Crack:
+$2a$12$JMEqU9FmtoYeb4E1DKsUoO17snFbCWud/9XVlnkZ9R.lUwgjdFfZe

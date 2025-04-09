@@ -1,0 +1,4 @@
+🕵️‍♂️ Mission Briefing: The enemy has hidden an important key within the cryptic depths of an SHA-1 hash. It’s up to you to use your cryptographic skills and tools like hashcat to reveal the secret behind this code. The fate of the mission rests in your hands!
+
+🔒 Encrypted Hash:
+4d97a0b1c759b2b30c53d02b20fb0c13bc4e40c6
