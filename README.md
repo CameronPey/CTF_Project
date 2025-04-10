@@ -29,12 +29,4 @@
 Perfect for clubs, classrooms, or anyone looking to sharpen their skills!
 
 ---
-
-## 📁 Project Structure
-
-```bash
-📂 CyberCapture-CTF/
-├── challenges/
-│   ├── crypto/
-│   ├── osint/
-├── README.md
+![Photo](https://github.com/user-attachments/assets/a20b9323-a289-4986-b845-c941c0ae54d1)
