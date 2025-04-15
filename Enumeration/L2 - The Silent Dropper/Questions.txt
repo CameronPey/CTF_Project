@@ -1,0 +1,25 @@
+
+🐍 Malware Analysis Challenge: "The Silent Dropper"
+Our red team intercepted a suspicious script embedded within a compromised user workstation. Threat intelligence confirms this is an obfuscated dropper used in a recent wave of targeted attacks.
+
+Your mission is to reverse-engineer the dropper and answer the following questions based on your analysis. The clock is ticking, Analyst...
+
+🔎 Questions
+
+Language Detected:
+What scripting language is the dropper written in?
+
+Execution Timing:
+At what time of day does the malware run its payload?
+
+Payload Details:
+What is the name of the file that contains the dropped payload?
+
+Persistence Evidence:
+To what directory is the payload's collected information saved?
+
+Stealth Mechanism:
+For how many seconds does the payload stay dormant before execution?
+
+Recon Technique:
+Which CIM class is being queried by the malware to gather system patch information?

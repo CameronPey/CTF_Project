@@ -1,0 +1,14 @@
+$user = $env:UserName
+$p = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64("U3RhcnQtU2xlZXAgLVNlY29uZHMgMjUwCkdldC1DaW1JbnN0YW5jZSAtQ2xhc3NOYW1lIFdpbjMyX1F1aWNrRml4RW5naW5lZXJpbmcgPiBDOlxpbmZvCg=="))
+$path =  "C:\Users\$user\sysinfo.ps1"
+$p | Out-File -FilePath $path
+
+$user = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
+$actions = (New-ScheduledTaskAction -Execute $path)
+
+$trigger = New-ScheduledTaskTrigger -Daily -At '12:00pm'
+$principal = New-ScheduledTaskPrincipal -UserId $user -RunLevel Highest
+$settings = New-ScheduledTaskSettingsSet -RunOnlyIfNetworkAvailable -WakeToRun
+$task = New-ScheduledTask -Action $actions -Principal $principal -Trigger $trigger -Settings settings
+
+Register-ScheduledTask 'Sys Info' -InputObject $task

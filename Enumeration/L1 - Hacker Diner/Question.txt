@@ -1,0 +1,5 @@
+💬 Scenario:
+A rogue developer left behind a strange artifact buried in an old backup drive. It’s cryptic. It’s raw. And it definitely isn’t Python.
+It’s time to flex your syntax-spotting skills and identify the language behind the code. 👀💻
+
+What programming language was this written in?

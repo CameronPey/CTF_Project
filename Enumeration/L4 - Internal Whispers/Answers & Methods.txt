@@ -1,0 +1,19 @@
+Answers 
+
+Questions:
+How many users are listed in the system?
+4
+
+Which user owns the file named note.txt that contains the flag?
+Carol
+
+What is the flag stored inside note.txt?
+FLAG-{whispers-from-home}
+
+tar -xvzf user_dump.tar.gz
+cd user_dump
+
+ls
+find . -name note.txt
+cat ./carol/note.txt
+

@@ -1,0 +1,17 @@
+Your red team has successfully gained access to a compromised internal server. During post-exploitation, you retrieved a snapshot of the /home/ directory.
+
+Inside, several users have left behind various files — configuration scripts, diaries, notes... even backups. But somewhere in the middle of this digital clutter, one file holds something valuable: a hidden flag.
+
+Use your enumeration skills to crawl through the directories and uncover the file, the owner, and the flag itself.
+
+🗂️ Objectives:
+📌 User Count
+How many users are listed in the /home/ directory?
+
+📌 Flag Ownership
+Which user owns the file named note.txt that contains the flag?
+
+📌 Hidden Message
+What is the flag stored inside note.txt?
+
+Flag format: FLAG-{xxxx-xxxx-xxxx}

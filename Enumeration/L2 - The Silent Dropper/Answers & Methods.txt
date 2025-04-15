@@ -1,0 +1,17 @@
+What language is the dropper script written in?
+Powershell
+
+What time of day will the malware run its payload?
+1200
+
+What is the name of the file the payload is saved as?
+sysinfo.ps1
+
+What path does the payload save information to?
+C:\info
+
+How many seconds does the payload stay dormant?
+250
+
+What CIM class is it looking at?
+Win32_QuickFixEngineering

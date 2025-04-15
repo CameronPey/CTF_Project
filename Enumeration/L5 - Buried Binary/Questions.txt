@@ -1,0 +1,8 @@
+During deep enumeration of a compromised Linux home directory, your team found an odd new user: frank. Nothing in his main folders stood out, but your instincts tell you there's more beneath the surface.
+
+Using your investigative skills, locate a hidden script buried deep in his file tree — it contains the next flag.
+
+📝 Questions:
+Which user's directory contains a hidden script with a flag?
+
+What is the flag output by the script?

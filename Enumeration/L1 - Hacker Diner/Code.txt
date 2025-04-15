@@ -1,0 +1,26 @@
+require 'openssl'
+require 'base64'
+
+$key = "WSYZmB+qrU0ZR/bnFXKNwA=="
+
+def encrypt(plaintext)
+  cipher = OpenSSL::Cipher::AES.new(128, :ECB).encrypt
+  cipher.key = 'BaconEggsAnToast'
+
+  data = plaintext.bytes.map { |byte| byte ^ 0xf4 }
+  encrypted = cipher.update(data.pack('c*')) + cipher.final
+  return encrypted
+end
+
+def main
+  puts "What is the passcode"
+  passcode = gets.chomp
+  val = encrypt(passcode)
+  if val == Base64.decode64($key)
+    puts "Welcome to the hacker diner order whenever you are ready"
+  else
+    puts "Please try again"
+  end
+end
+
+main()

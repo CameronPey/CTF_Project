@@ -1,0 +1,13 @@
+📝 Questions:
+Which user's directory contains a hidden script with a flag?
+
+Answer: frank
+
+What is the flag output by the script?
+
+Answer: FLAG-{hidden-in-bin-7539}
+
+tar -xvzf user_dump_updated.tar.gz
+cd user_dump
+
+cat ./frank/bin/.hidden_flag.sh

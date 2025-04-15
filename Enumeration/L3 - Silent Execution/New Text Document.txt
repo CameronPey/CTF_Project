@@ -1,0 +1,11 @@
+An executable was recovered from a compromised machine. Initial inspection reveals that it's written in a low-level language, and it appears to contain an embedded flag.
+
+Your task: Analyze the binary and recover the hidden flag.
+
+🔎 Questions
+
+Language Check:
+What programming language is the executable written in?
+
+Retrieve the Flag:
+What is the flag embedded within the binary?
