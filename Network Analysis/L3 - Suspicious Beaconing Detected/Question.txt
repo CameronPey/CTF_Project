@@ -1,0 +1,19 @@
+During a routine network traffic analysis, DNS logs and HTTP requests revealed behavior suggesting background processes communicating with external domains. Your goal is to dissect this traffic and uncover patterns that might be linked to tracking, adware, or sandbox evasion mechanisms.
+
+🔍 Traffic Behavior Investigation
+Q1: Dual Stack Resolution
+A certain domain resolved to both an IPv4 and an IPv6 address during DNS analysis.
+🧠 What is the domain name that returns both an A and AAAA record?
+
+Q2: Loopback Query Flooding
+One of the IP addresses in the environment is repeatedly querying for a domain that resolves to 0.0.0.0—commonly a sign of a blocked or redirected domain.
+📡 Which IP address is making these repeated queries?
+
+Q3: Domain to Nowhere
+Among the queried domains, one resolves directly to 0.0.0.0, which is often used to null-route ad or telemetry domains.
+🌐 Which domain name returns this response?
+
+Q4: Resource Request Revealed
+There is a single HTTP GET request observed in the session. Your task is to extract the name of the requested file.
+📁 What is the name of the file requested via HTTP?
+

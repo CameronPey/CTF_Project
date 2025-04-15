@@ -1,0 +1,17 @@
+Q1: Curling for Answers
+One of the requests in the logs came from a client using curl.
+🧠 What version of curl was the client using?
+💡 Look for lines where http.request.method == "GET" and inspect the HTTP headers.
+Answer: 7.88.1
+
+Q2: Identifying the Reverse Proxy
+The backend web servers are powered by Nginx, and their version can be seen in the response headers.
+🧪 What version of Nginx is being used?
+💡 Inspect http.response lines and find the Server: field.
+Answer: 1.27.2
+
+Q3: Who's Doing the Heavy Lifting?
+The Nginx reverse proxy passes requests to upstream servers. One of them is receiving the bulk of the traffic.
+📊 What is the IP address of the upstream node that received the most requests?
+💡 Explore http.request > stats > endpoints > ipv4, and find the most frequent IP.
+Answer: 172.24.1.2

@@ -1,0 +1,16 @@
+Q1: Requesting the Time
+One of the devices initiated a DNS query to time.nist.gov, possibly to reach out to a time server for synchronization.
+🔍 Which source IP address made the request?
+Answer: 192.168.88.61
+
+Q2: Denied and Refused
+That same device was met with multiple DNS refusals when attempting to resolve the A record of time.nist.gov.
+🛑 Which IP address was repeatedly denied during these attempts?
+💡 Look for lines with Standard query response and Refused A time.nist.gov.
+Answer: 192.168.88.61
+
+Q3: Query to Nowhere
+A different host tried to resolve localhost through an external DNS provider (8.8.8.8), which should never happen in a secure environment. It received a Destination unreachable response.
+🌐 Which IP address sent this improper query?
+💡 Filter for Standard query messages to 8.8.8.8 for localhost.
+Answer: 192.168.89.2

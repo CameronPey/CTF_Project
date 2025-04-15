@@ -1,0 +1,23 @@
+Q1: Dual Stack Resolution
+A certain domain resolved to both an IPv4 and an IPv6 address during DNS analysis.
+🧠 What is the domain name that returns both an A and AAAA record?
+💡 Search for DNS query responses that contain both A (IPv4) and AAAA (IPv6) records.
+Answer: beacons.gcp.gvt2.com
+
+Q2: Loopback Query Flooding
+One of the IP addresses in the environment is repeatedly querying for a domain that resolves to 0.0.0.0—commonly a sign of a blocked or redirected domain.
+📡 Which IP address is making these repeated queries?
+💡 Look for recurring DNS queries that resolve with A 0.0.0.0.
+Answer: 10.0.0.11
+
+Q3: Domain to Nowhere
+Among the queried domains, one resolves directly to 0.0.0.0, which is often used to null-route ad or telemetry domains.
+🌐 Which domain name returns this response?
+💡 Inspect DNS query responses for A records with 0.0.0.0.
+Answer: beacons2.gvt2.com
+
+Q4: Resource Request Revealed
+There is a single HTTP GET request observed in the session. Your task is to extract the name of the requested file.
+📁 What is the name of the file requested via HTTP?
+💡 Check HTTP requests where http.request.method == "GET" and extract the requested URI.
+Answer: out.png

@@ -1,0 +1,16 @@
+A network security audit has revealed unusual web traffic passing through a reverse proxy running Nginx. Your team was provided with intercepted HTTP logs to investigate potential reconnaissance or enumeration attempts.
+
+Your objective is to extract technical details from the traffic that could point to either misconfigurations or early-stage probing by an external actor.
+
+🔍 Web Traffic Analysis
+Q1: Curling for Answers
+One of the requests in the logs came from a client using curl.
+🧠 What version of curl was the client using?
+
+Q2: Identifying the Reverse Proxy
+The backend web servers are powered by Nginx, and their version can be seen in the response headers.
+🧪 What version of Nginx is being used?
+
+Q3: Who's Doing the Heavy Lifting?
+The Nginx reverse proxy passes requests to upstream servers. One of them is receiving the bulk of the traffic.
+📊 What is the IP address of the upstream node that received the most requests?
